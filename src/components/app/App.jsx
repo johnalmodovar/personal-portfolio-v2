@@ -1,5 +1,3 @@
-import { useState } from 'react'
-
 import Navbar from '../navbar/Navbar'
 import Main from '../main/Main'
 
