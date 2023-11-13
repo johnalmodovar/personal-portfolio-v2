@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 import {
     AiOutlineMenu,
     AiOutlineHome,
@@ -7,9 +6,6 @@ import {
     AiOutlineUser,
     AiOutlineSolution } from "react-icons/ai";
 import { TfiLightBulb } from "react-icons/tfi"
-
-
-import Logo from "../../../public/logo.png";
 
 export default function Navbar() {
     const [toggleMobileNav, setToggleMobileNav] = useState(false);

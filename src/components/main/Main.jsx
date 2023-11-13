@@ -1,5 +1,6 @@
 import { TypeAnimation } from "react-type-animation";
 import { AiOutlineGithub, AiOutlineLinkedin, AiOutlineMail } from "react-icons/ai";
+
 export default function Main() {
     return (
         <div id="main">
