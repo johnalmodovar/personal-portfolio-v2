@@ -10,16 +10,18 @@ export default function Main() {
                 className="w-[300px] rounded-full shadow-lg bg-gray-100 shadow-gray-400" />
             </div>
             <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center items-center">
-                <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">Hi, I'm John Almodovar</h1>
+                <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">
+                    Hi, I'm John Almodovar.
+                </h1>
                 <h2 className="flex sm:text-3xl text-2xl pt-4 text-gray-800">
                     I'm a
                     <TypeAnimation
                      sequence={[
-                        "Software Engineer",
+                        "Software Engineer.",
                         2000,
-                        "Developer",
+                        "Developer.",
                         2000,
-                        "Tech Enthusiast",
+                        "Tech Enthusiast.",
                         2000,
                      ]}
                      wrapper="div"
