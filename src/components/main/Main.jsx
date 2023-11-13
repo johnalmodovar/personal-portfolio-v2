@@ -31,9 +31,9 @@ export default function Main() {
                     />
                 </h2>
                 <div className="flex justify-between pt-6 max-w-[200px] w-full">
-                    <AiOutlineGithub className="hover:scale-110 ease-in duration-200" size={20}/>
-                    <AiOutlineLinkedin className="hover:scale-110 ease-in duration-200" size={20}/>
-                    <AiOutlineMail className="hover:scale-110 ease-in duration-200" size={20}/>
+                    <AiOutlineGithub className="hover:scale-110 ease-in duration-200" size={30}/>
+                    <AiOutlineLinkedin className="hover:scale-110 ease-in duration-200" size={30}/>
+                    <AiOutlineMail className="hover:scale-110 ease-in duration-200" size={30}/>
                 </div>
             </div>
         </div>
