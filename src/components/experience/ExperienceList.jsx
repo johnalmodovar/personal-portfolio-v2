@@ -1,6 +1,6 @@
 import ExperienceCard from "./ExperienceCard";
 
-const jobs = require("./experience.json");
+import jobs from "./experience.json";
 
 export default function ExperienceList() {
     return (
