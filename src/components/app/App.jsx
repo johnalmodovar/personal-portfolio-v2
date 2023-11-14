@@ -1,5 +1,6 @@
 import Navbar from '../navbar/Navbar'
 import Main from '../main/Main'
+import ExperienceList from '../experience/ExperienceList'
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Navbar />
       <Main />
+      <ExperienceList />
     </div>
   )
 }
