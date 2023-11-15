@@ -1,20 +1,68 @@
 {
     "src": [
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg",
-        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+            "name": "JavaScript"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+            "name": "TypeScript"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+            "name": "Python"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+            "name": "HTML"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+            "name": "CSS"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+            "name": "Git"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+            "name": "PostgreSQL"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg",
+            "name": "SQLAlchemy"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg",
+            "name": "GraphQL"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+            "name": "React"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg",
+            "name": "Node.js"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg",
+            "name": "Express"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg",
+            "name": "Flask"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg",
+            "name": "Jest"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+            "name": "Tailwind"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+            "name": "Bootstrap"
+        }
     ]
 }
