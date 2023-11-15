@@ -3,7 +3,7 @@ import { AiOutlineGithub, AiOutlineLinkedin, AiOutlineMail } from "react-icons/a
 
 export default function Main() {
     return (
-        <div id="main">
+        <div id="main" className="m-auto py-16">
             <div className="flex justify-center items-center p-6">
             <img
                 src="src/assets/portrait.jpeg"
