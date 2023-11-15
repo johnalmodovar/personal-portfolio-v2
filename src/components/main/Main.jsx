@@ -8,7 +8,7 @@ export default function Main() {
             <img
                 src="src/assets/portrait.jpeg"
                 alt="Portrait Image"
-                className="w-[300px] rounded-full shadow-lg bg-gray-100 shadow-gray-400" />
+                className="w-[300px] rounded-full shadow-lg bg-gray-100 shadow-gray-400 hover:scale-110 ease-in duration-200" />
             </div>
             <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center items-center">
                 <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">
