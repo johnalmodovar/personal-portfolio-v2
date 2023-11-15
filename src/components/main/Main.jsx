@@ -31,10 +31,17 @@ export default function Main() {
                      style={{ fontSize: "1em", paddingLeft: "5px" }}
                     />
                 </h2>
+
                 <div className="flex justify-between pt-6 max-w-[200px] w-full">
-                    <AiOutlineGithub className="hover:scale-110 ease-in duration-200" size={30}/>
-                    <AiOutlineLinkedin className="hover:scale-110 ease-in duration-200" size={30}/>
-                    <AiOutlineMail className="hover:scale-110 ease-in duration-200" size={30}/>
+                    <a href="https://github.com/johnalmodovar" target="_blank">
+                        <AiOutlineGithub className="hover:scale-110 ease-in duration-200" size={30}/>
+                    </a>
+                    <a href="https://www.linkedin.com/in/john-almodovar-8407a7251/" target="_blank">
+                        <AiOutlineLinkedin className="hover:scale-110 ease-in duration-200" size={30}/>
+                    </a>
+                    <a href="mailto:john.ag.almodovar@gmail.com" target="_blank">
+                        <AiOutlineMail className="hover:scale-110 ease-in duration-200" size={30}/>
+                    </a>
                 </div>
             </div>
         </div>
