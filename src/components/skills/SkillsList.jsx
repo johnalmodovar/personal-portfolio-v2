@@ -9,7 +9,7 @@ export default function SkillsList() {
             <div className="grid grid-cols-4 gap-4 relative pt-4 md:pl-8 xl:pl-0 2xl:pl-0">
                 {skills.src.map( (src) => (
                     <SkillCard
-                        key={src}
+                        key={src.name}
                         src={src.link}
                         name={src.name}
                     />
