@@ -2,6 +2,7 @@ import Navbar from '../navbar/Navbar'
 import Main from '../main/Main'
 import About from '../about/About'
 import SkillsList from '../skills/SkillsList'
+import ProjectsList from '../projects/ProjectsList'
 import ExperienceList from '../experience/ExperienceList'
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Main />
       <About />
       <SkillsList />
+      <ProjectsList />
       <ExperienceList />
     </div>
   )
