@@ -1,12 +1,14 @@
 import { TypeAnimation } from "react-type-animation";
 import { AiOutlineGithub, AiOutlineLinkedin, AiOutlineMail } from "react-icons/ai";
 
+import portrait from "../../assets/portrait.jpeg";
+
 export default function Main() {
     return (
         <div id="main" className="m-auto py-16">
             <div className="flex justify-center items-center p-6">
             <img
-                src="src/assets/portrait.jpeg"
+                src={portrait}
                 alt="Portrait Image"
                 className="w-[300px] rounded-full shadow-lg bg-gray-100 shadow-gray-400 hover:scale-110 ease-in duration-200" />
             </div>
