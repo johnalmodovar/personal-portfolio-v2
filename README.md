@@ -9,4 +9,4 @@ My current portfolio.
 
 ## Links
 
-- Live: `soon..`
+- Live: https://johnalmodovar.com/
