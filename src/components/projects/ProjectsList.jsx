@@ -13,7 +13,7 @@ export default function ProjectsList() {
                 <ProjectCard
                     title={projects.jobly.title}
                     img={joblyImg}
-                    demo=""
+                    demo={projects.jobly.demo}
                     github={projects.jobly.github} />
                 <ProjectCard
                     title={projects.sharebnb.title}
