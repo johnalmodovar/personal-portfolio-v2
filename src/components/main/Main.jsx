@@ -44,6 +44,9 @@ export default function Main() {
                     <a href="mailto:john.ag.almodovar@gmail.com" target="_blank">
                         <AiOutlineMail className="hover:scale-110 ease-in duration-200" size={30}/>
                     </a>
+                    <a href="src/assets/Resume.pdf" target="_blank">
+                        <AiOutlineFileText className="hover:scale-110 ease-in duration-200" size={30}/>
+                    </a>
                 </div>
             </div>
         </div>
