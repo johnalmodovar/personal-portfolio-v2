@@ -18,7 +18,7 @@ export default function ProjectsList() {
                 <ProjectCard
                     title={projects.sharebnb.title}
                     img={sharebnbImg}
-                    demo=""
+                    demo={projects.sharebnb.demo}
                     github={projects.sharebnb.github} />
             </div>
         </div>
