@@ -8,6 +8,10 @@
         "title": "ShareBnB",
         "demo": "https://sharebnb.johnalmodovar.com/",
         "github": "https://github.com/johnalmodovar/ShareBnB"
+    },
+    "warbler": {
+        "title": "Warbler",
+        "demo": "https://warbler.johnalmodovar.com/",
+        "github": "https://github.com/johnalmodovar/warbler"
     }
-
 }

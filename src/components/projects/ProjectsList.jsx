@@ -2,6 +2,7 @@ import ProjectCard from "./ProjectCard";
 
 import joblyImg from "../../assets/projects/jobly.png";
 import sharebnbImg from "../../assets/projects/sharebnb.png";
+import warblerImg from "../../assets/projects/warbler.png";
 
 import projects from "./projects.json";
 
@@ -20,6 +21,11 @@ export default function ProjectsList() {
                     img={sharebnbImg}
                     demo={projects.sharebnb.demo}
                     github={projects.sharebnb.github} />
+                <ProjectCard
+                    title={projects.warbler.title}
+                    img={warblerImg}
+                    demo={projects.warbler.demo}
+                    github={projects.warbler.github} />
             </div>
         </div>
     )
