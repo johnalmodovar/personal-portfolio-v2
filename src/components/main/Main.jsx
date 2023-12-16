@@ -1,5 +1,5 @@
 import { TypeAnimation } from "react-type-animation";
-import { AiOutlineGithub, AiOutlineLinkedin, AiOutlineMail } from "react-icons/ai";
+import { AiOutlineGithub, AiOutlineLinkedin, AiOutlineMail, AiOutlineFileText } from "react-icons/ai";
 
 import portrait from "../../assets/portrait.jpeg";
 
