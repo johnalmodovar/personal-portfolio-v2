@@ -57,7 +57,7 @@
             "name": "Jest"
         },
         {
-            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css",
             "name": "Tailwind"
         },
         {
