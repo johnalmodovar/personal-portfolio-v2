@@ -63,6 +63,10 @@
         {
             "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
             "name": "Bootstrap"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
+            "name": "Next.js"
         }
     ]
 }
