@@ -67,6 +67,10 @@
         {
             "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
             "name": "Next.js"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg",
+            "name": "Storybook"
         }
     ]
 }
