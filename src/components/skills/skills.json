@@ -77,8 +77,8 @@
             "name": "Storybook"
         },
         {
-            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg",
-            "name": "Discord.js"
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg",
+            "name": "Vite"
         }
     ]
 }
