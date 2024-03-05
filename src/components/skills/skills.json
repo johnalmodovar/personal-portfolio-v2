@@ -77,7 +77,7 @@
             "name": "Storybook"
         },
         {
-            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg",
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg",
             "name": "Vite"
         }
     ]
