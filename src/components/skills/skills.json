@@ -57,6 +57,10 @@
             "name": "Jest"
         },
         {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg",
+            "name": "jQuery"
+        },
+        {
             "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
             "name": "Tailwind"
         },
@@ -71,6 +75,10 @@
         {
             "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg",
             "name": "Storybook"
+        },
+        {
+            "link": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg",
+            "name": "Discord.js"
         }
     ]
 }
