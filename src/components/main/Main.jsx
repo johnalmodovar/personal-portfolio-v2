@@ -13,16 +13,14 @@ export default function Main() {
                 className="w-[300px] rounded-full shadow-lg bg-gray-100 shadow-gray-400 hover:scale-110 ease-in duration-200" />
             </div>
             <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center items-center">
-                <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">
-                    John Almodovar.
-                </h1>
+                <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">John Almodovar</h1>
                 <h2 className="flex sm:text-3xl text-2xl pt-4 text-gray-800">
                     I'm a
                     <TypeAnimation
                      sequence={[
                         "Software Engineer.",
                         2000,
-                        "Developer.",
+                        "Front-End Developer.",
                         2000,
                         "Tech Enthusiast.",
                         2000,
@@ -33,8 +31,8 @@ export default function Main() {
                      style={{ fontSize: "1em", paddingLeft: "5px" }}
                     />
                 </h2>
-
-                <div className="flex justify-between pt-6 max-w-[200px] w-full">
+                {/* <h5 className="flex sm:text-2xl text-lg pt-4 text-gray-800">Contact:</h5> */}
+                <div className="flex justify-between pt-4 max-w-[200px] w-full">
                     <a href="https://github.com/johnalmodovar" target="_blank">
                         <AiOutlineGithub className="hover:scale-110 ease-in duration-200" size={30}/>
                     </a>
@@ -43,9 +41,6 @@ export default function Main() {
                     </a>
                     <a href="mailto:john.ag.almodovar@gmail.com" target="_blank">
                         <AiOutlineMail className="hover:scale-110 ease-in duration-200" size={30}/>
-                    </a>
-                    <a href="src/assets/Resume.pdf" target="_blank">
-                        <AiOutlineFileText className="hover:scale-110 ease-in duration-200" size={30}/>
                     </a>
                 </div>
             </div>
