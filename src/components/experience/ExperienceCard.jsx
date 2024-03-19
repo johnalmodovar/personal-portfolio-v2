@@ -9,8 +9,12 @@ export default function ExperienceCard({ year, title, length, details }) {
                     <span className="text-lg font-semibold text-[#001b5e]">{title}</span>
                     <span className="my-1 text-sm font-normal leading-none text-stone-400">{length}</span>
                 </p>
-                <p className="my-2 text-base font-normal text-stone-500">{details}</p>
+                <li className="my-2 text-base font-normal text-stone-500">
+                    {details.map(d => (
+                        <ul>{`\u2022 ${d}`}</ul>
+                    ))}
+                </li>
             </li>
         </ol>
-    )
+    );
 }
