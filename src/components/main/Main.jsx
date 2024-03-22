@@ -18,7 +18,7 @@ export default function Main() {
                     I'm a
                     <TypeAnimation
                      sequence={[
-                        "Software Engineer.",
+                        "Full-Stack Software Engineer.",
                         2000,
                         "Front-End Developer.",
                         2000,
