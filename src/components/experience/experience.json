@@ -1,14 +1,34 @@
 {
-    "experience": [{
-        "year": 2023,
-        "title": "Software Engineer Intern | Foqal",
-        "length": "October 2023—November 2023",
-        "details": ["Overhauled Agent UI with React, TypeScript, and Bootstrap, leveraging Figma designs to elevate its visual design and relocate functionality from previous versions.", "Located and debugged known issues with the channel template component regarding its text box area, adding a side scroll feature to negate text overflow and reduce unforeseen behaviors.", "Engaged in Agile Development, collaborated with other engineers, engaged in stand-ups and planning poker to successfully allocate tickets between team members."]
-    },
-    {
-        "year": 2020,
-        "title": "Back-End Supervisor | Half & Half Tea Express",
-        "length": "February 2020—April 2023",
-        "details": ["Trained team members in successful strategies to meet procedural standards and achieve daily sales targets.", "Effectively allocated tasks during high-traffic hours to keep operations running smoothly and prevent a bottleneck on incoming orders."]
-    }]
+    "experience": [
+        {
+            "year": 2023,
+            "title": "Software Engineer Intern | Foqal",
+            "length": "October 2023—November 2023",
+            "details": [
+                "Overhauled Agent UI with React, TypeScript, and Bootstrap, leveraging Figma designs to elevate its visual design and relocate functionality from previous versions.",
+                "Located and debugged known issues with the channel template component regarding its text box area, adding a side scroll feature to negate text overflow and reduce unforeseen behaviors.",
+                "Engaged in Agile Development, collaborated with other engineers, engaged in stand-ups and planning poker to successfully allocate tickets between team members."
+            ]
+        },
+        {
+            "year": 2020,
+            "title": "Back-End Supervisor | Half & Half Tea Express",
+            "length": "February 2020—April 2023",
+            "details": [
+                "Trained team members in successful strategies to meet procedural standards and achieve daily sales targets.",
+                "Effectively allocated tasks to team members during high-traffic hours to maximize efficiency and prevent a bottleneck on incoming orders.",
+                "Supervised and monitored team responsibilities to verify product quality is aligned with company standards."
+            ]
+        },
+        {
+            "year": 2016,
+            "title": "Head Server | Ninja Sushi and Grill",
+            "length": "April 2016-September 2018",
+            "details": [
+                "Led team members in delivering exceptional service, ensuring guest satisfaction and adherance to company standards.",
+                "Managed and monitored table-section responsibilities to team members to optimize efficiency and maintain balanced workloads.",
+                "Addressed guest inquiries and concerns promptly, resolving issues to ensure a positive dining experience."
+            ]
+        }
+    ]
 }
